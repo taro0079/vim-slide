@@ -203,10 +203,13 @@ layout: two-cols
 <img src="https://cdn.worldvectorlogo.com/logos/neovim.svg" width="400"/>
 
 </template>
+
+---
+layout: cover
+---
+# 僕が考えた最強のvimrc
+[https://github.com/taro0079/Dotfiles](https://github.com/taro0079/Dotfiles)
 <!--
 You can have `style` tag in markdown to override the style for the current page.
 Learn more: https://sli.dev/guide/syntax#embedded-styles
 -->
----
-
----
